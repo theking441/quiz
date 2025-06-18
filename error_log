@@ -1,0 +1,19 @@
+[15-Jun-2025 20:24:47 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'vdokyho_mathdb'@'localhost' (using password: YES) in /home/vdokyho/public_html/includes/config.php:9
+Stack trace:
+#0 /home/vdokyho/public_html/includes/config.php(9): mysqli_connect()
+#1 /home/vdokyho/public_html/index.php(3): require_once('/home/vdokyho/p...')
+#2 {main}
+  thrown in /home/vdokyho/public_html/includes/config.php on line 9
+[15-Jun-2025 20:24:48 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'vdokyho_mathdb'@'localhost' (using password: YES) in /home/vdokyho/public_html/includes/config.php:9
+Stack trace:
+#0 /home/vdokyho/public_html/includes/config.php(9): mysqli_connect()
+#1 /home/vdokyho/public_html/index.php(3): require_once('/home/vdokyho/p...')
+#2 {main}
+  thrown in /home/vdokyho/public_html/includes/config.php on line 9
+[15-Jun-2025 20:24:53 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'vdokyho_mathdb'@'localhost' (using password: YES) in /home/vdokyho/public_html/includes/config.php:9
+Stack trace:
+#0 /home/vdokyho/public_html/includes/config.php(9): mysqli_connect()
+#1 /home/vdokyho/public_html/index.php(3): require_once('/home/vdokyho/p...')
+#2 {main}
+  thrown in /home/vdokyho/public_html/includes/config.php on line 9
+[18-Jun-2025 11:58:09 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $uploaded_avatar in /home/vdokyho/public_html/register.php on line 62
